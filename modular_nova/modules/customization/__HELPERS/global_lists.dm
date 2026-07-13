@@ -114,9 +114,7 @@
 	// See Initialize() on SSReagents
 
 	// Loadouts
-	for(var/datum/loadout_category/category in GLOB.all_loadout_categories)
-		if (category.erp_category)
-			GLOB.all_loadout_categories -= category
+
 	for(var/datum/loadout_category/category in GLOB.all_loadout_categories)
 		for(var/datum/loadout_item/loadout_item in category.associated_items)
 			if(!loadout_item.erp_item)

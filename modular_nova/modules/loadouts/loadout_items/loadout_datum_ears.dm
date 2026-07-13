@@ -25,15 +25,3 @@
 /*
 *	ITEMS BELOW HERE
 */
-
-/datum/loadout_item/ears/headphones
-	name = "Headphones"
-	item_path = /obj/item/instrument/piano_synth/headphones
-
-/datum/loadout_item/ears/earmuffs
-	name = "Earmuffs"
-	item_path = /obj/item/clothing/ears/earmuffs
-
-/datum/loadout_item/ears/frontier_radio
-	name = "Frontier Radio Headset"
-	item_path = /obj/item/radio/headset/headset_frontier_colonist

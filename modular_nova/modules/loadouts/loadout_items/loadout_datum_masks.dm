@@ -208,15 +208,3 @@
 */
 // No group (groups should be ~5+ items)
 
-/datum/loadout_item/mask/whistlesec
-	name = "Police Whistle"
-	item_path = /obj/item/clothing/mask/whistle
-	restricted_roles = list(ALL_JOBS_SEC)
-
-/*
-*	DONATOR
-*/
-
-/datum/loadout_item/mask/donator
-	abstract_type = /datum/loadout_item/mask/donator
-	donator_only = TRUE
