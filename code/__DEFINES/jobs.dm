@@ -132,7 +132,6 @@
 #define JOB_CENTCOM_SPECIAL_OFFICER "Special Ops Officer"
 #define JOB_CENTCOM_PRIVATE_SECURITY "Private Security Force"
 // NOVA EDIT ADDITION START
-#define JOB_BLUESHIELD "Blueshield"
 #define JOB_NT_REP "Nanotrasen Consultant"
 // Nanotrasen Naval Command jobs
 #define JOB_NAVAL_ENSIGN "Ensign"

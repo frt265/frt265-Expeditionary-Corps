@@ -256,22 +256,8 @@ GLOBAL_DATUM_INIT(crewmonitor, /datum/crewmonitor, new)
 			entry["name"] = id_card.registered_name
 			entry["assignment"] = id_card.assignment
 			var/trim_assignment = id_card.get_trim_assignment()
-			/* // NOVA EDIT REMOVAL START - Just so we can indent this after an else
 			if (jobs[trim_assignment] != null)
 				entry["ijob"] = jobs[trim_assignment]
-			*/ // NOVA EDIT REMOVAL END
-		// NOVA EDIT ADDITION START
-			if(show_command_only)
-				if (jobs_command[trim_assignment] != null)
-					entry["ijob"] = jobs_command[trim_assignment]
-				else
-					continue
-			else
-				if (jobs[trim_assignment] != null)
-					entry["ijob"] = jobs[trim_assignment]
-		else if(show_command_only) // Skip unknowns on blueshield
-			continue
-		// NOVA EDIT ADDITION END
 
 		// NOVA EDIT ADDITION START - Checking for synthetic races
 		if (issynthetic(tracked_human) || isprotean(tracked_human))

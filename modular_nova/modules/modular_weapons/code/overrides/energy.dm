@@ -54,7 +54,7 @@
 		and was quietly pushed to the sidelines once it began to affect Allstar's reputation."
 
 /obj/item/gun/energy/laser/captain
-	ammo_type = list(/obj/item/ammo_casing/energy/laser/hellfire/blueshield) // 20 hellfires up from 15
+//	ammo_type = list(/obj/item/ammo_casing/energy/laser/hellfire/blueshield) // 20 hellfires up from 15
 
 /obj/item/gun/energy/laser/captain/Initialize(mapload)
 	. = ..()

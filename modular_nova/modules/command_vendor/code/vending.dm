@@ -45,26 +45,6 @@
 		/obj/item/clothing/shoes/sneakers/brown = 1,
 		/obj/item/clothing/suit/armor/vest/capcarapace/tailcoat_captain = 1,
 		/obj/item/clothing/neck/tie/bunnytie/captain = 1,
-
-		// BLUESHIELD
-		/obj/item/clothing/head/beret/blueshield = 1,
-		/obj/item/clothing/head/beret/blueshield/navy = 1,
-		/obj/item/clothing/head/soft/blueshield = 1,
-		/obj/item/clothing/head/hats/imperial/blueshield = 1,
-		/obj/item/clothing/under/rank/blueshield = 1,
-		/obj/item/clothing/under/rank/blueshield/skirt = 1,
-		/obj/item/clothing/under/rank/blueshield/turtleneck = 1,
-		/obj/item/clothing/under/rank/blueshield/turtleneck/skirt = 1,
-		/obj/item/clothing/under/imperialvest/blueshield = 1,
-		/obj/item/clothing/under/imperialskirtvest/blueshield = 1,
-		/obj/item/clothing/suit/armor/vest/blueshield = 1,
-		/obj/item/clothing/suit/armor/vest/blueshield/jacket = 1,
-		/obj/item/clothing/neck/mantle/bsmantle = 1,
-		/obj/item/storage/backpack/blueshield = 1,
-		/obj/item/storage/backpack/satchel/blueshield = 1,
-		/obj/item/storage/backpack/duffelbag/blueshield = 1,
-		/obj/item/storage/backpack/messenger/blueshield = 1,
-		/obj/item/clothing/shoes/laceup = 1,
 	)
 	access_lists[ACCESS_HOP] = list( // Best head btw
 		/obj/item/clothing/head/hats/hopcap = 1,

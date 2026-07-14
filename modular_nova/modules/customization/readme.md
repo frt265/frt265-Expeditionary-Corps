@@ -68,14 +68,8 @@ Re-writes how mutant bodyparts exist and how they're handled. Adds in a per limb
 .\modular_nova\master_files\icons\mob\clothing\mask_muzzled.dmi
 .\modular_nova\master_files\icons\mob\clothing\mask_vox.dmi
 .\modular_nova\master_files\icons\mob\clothing\suit_digi.dmi
-.\modular_nova\master_files\icons\mob\clothing\suit_taur_hoof.dmi
-.\modular_nova\master_files\icons\mob\clothing\suit_taur_paw.dmi
-.\modular_nova\master_files\icons\mob\clothing\suit_taur_snake.dmi
 .\modular_nova\master_files\icons\mob\clothing\uniform_digi.dmi
 .\modular_nova\master_files\icons\mob\clothing\under\uniform_digi.dmi
-.\modular_nova\master_files\icons\mob\clothing\under\uniform_taur_hoof.dmi
-.\modular_nova\master_files\icons\mob\clothing\under\uniform_taur_paw.dmi
-.\modular_nova\master_files\icons\mob\clothing\under\uniform_taur_snake.dmi
 
 .\modular_nova\master_files\icons\obj\drinks.dmi
 
